@@ -1,6 +1,3 @@
-# Opções para apresentação inicial do perfil
-
-## Exemplo 1 para apresentação
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Breno%20Coltri%20|%20Data%20Scientist&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -11,8 +8,6 @@
 
 </div>
 
-
-## Exemplo 2 para apresentação
 
 <div align="center">
 
@@ -245,18 +240,6 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 </tr>
 </table>
 
-<div align="center">
-
-#### 🏅 Certificações & Especialidades
-
-![Green Belt](https://img.shields.io/badge/🏅_Lean_Six_Sigma-GREEN_BELT-00875A?style=flat-square&labelColor=1a1a2e)
-![Data Governance](https://img.shields.io/badge/🔐_Governança-DADOS-5B21B6?style=flat-square&labelColor=1a1a2e)
-![Statistics](https://img.shields.io/badge/📈_Estatística-APLICADA-2563EB?style=flat-square&labelColor=1a1a2e)
-![Big Data](https://img.shields.io/badge/💾_Big_Data-SPARK_|_HADOOP-E25A1C?style=flat-square&labelColor=1a1a2e)
-![Machine Learning](https://img.shields.io/badge/🤖_Machine-LEARNING-FF6F00?style=flat-square&labelColor=1a1a2e)
-
-</div>
-
 ---
 
 ## 🎯 Competências Principais
@@ -287,7 +270,7 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 
 <a href="https://github.com/brenocoltri">
   <img height="100%" src="https://github-stats-extended.vercel.app/api?username=brenocoltri&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img height="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LukeSantossz&theme=dracula&hide_border=true&bg_color=0d1117&title_color=BD93F9&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Langs"/>
+  <img height="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brenocoltri&theme=dracula&hide_border=true&bg_color=0d1117&title_color=BD93F9&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Langs"/>
 </a>
 
 </div>
@@ -326,7 +309,7 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 
 **Sempre explorando dados, construindo modelos e buscando insights.**  
 
-<img src="https://komarev.com/ghpvc/?username=LukeSantossz&color=BD93F9&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=brenocoltri&color=BD93F9&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views"/>
 
 *"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming*
 
