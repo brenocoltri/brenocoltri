@@ -18,7 +18,11 @@
 
 <br>
 
-Focado em transformar dados brutos em decisões estratégicas utilizando **Python**, **SQL**, **Machine Learning** e **Power BI**. Certificado **Lean Six Sigma Green Belt**, combino rigor estatístico e metodologia **DMAIC** para otimizar processos, desenvolver pipelines de **Big Data**, implementar soluções de **Governança de Dados** e criar dashboards para tomada de decisão.
+Cientista de Dados e **Lean Six Sigma Green Belt** focado em otimizar processos e gerar **insights acionáveis**.
+Domínio em **Python**, **SQL**, **Machine Learning**, **Big Data** e dashboards executivos no **Power BI**.
+Experiência em transformar dados hospitalares/financeiros, reduzindo gargalos e maximizando resultados.
+Aplico o método **DMAIC** e **Governança de Dados** para construir pipelines e soluções ponta a ponta.
+Transformo dados brutos em decisões estratégicas de alto impacto para o negócio.
 
 </div>
 
@@ -26,11 +30,11 @@ Focado em transformar dados brutos em decisões estratégicas utilizando **Pytho
 
 ## 💻 Sobre mim
 
-Sou Cientista de Dados com experiência em transformar grandes volumes de dados em **insights estratégicos e decisões orientadas por dados**. Atuo em todo o ciclo de vida do dado — desde a coleta e tratamento até a modelagem preditiva, visualização e governança.
+Cientista de Dados graduado pela FATEC e certificado **Lean Six Sigma Green Belt**, com atuação focada em transformar grandes volumes de dados em **insights estratégicos e alta eficiência operacional**. Atuo em todo o ciclo de vida do dado, combinando **Python**, **SQL**, **Machine Learning** e **Power BI** com a metodologia **DMAIC** para otimizar processos, eliminar gargalos e acelerar resultados de negócio.
 
-Com certificação **Lean Six Sigma Green Belt**, combino análise estatística rigorosa com metodologias de **melhoria contínua (DMAIC)** para otimizar processos e reduzir variabilidade. Tenho forte atuação em **Python, SQL, Power BI, Machine Learning e Big Data**, sempre buscando entregar valor real ao negócio.
+Com sólida bagagem em gestão e inteligência de dados na área da saúde, possuo histórico comprovado na **reestruturação de fluxos financeiros, criação de relatórios estratégicos e integração de equipes multidisciplinares**. Unindo visão analítica e capacidade de execução, desenvolvo soluções que maximizam a lucratividade e garantem governança e conformidade de dados.
 
-Meu interesse especial está em **modelos de Machine Learning aplicados, pipelines de dados, dashboards gerenciais, análise exploratória e conformidade com LGPD**.
+Tenho foco no desenvolvimento de **pipelines de Big Data, modelagem preditiva avançada, dashboards executivos e LGPD**. Meu objetivo é aplicar arquiteturas robustas e análises estatísticas para apoiar tomadas de decisão de alto impacto e impulsionar a inovação contínua nas organizações.
 
 <br>
 
@@ -284,12 +288,9 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 
 | 📚 Instituição | 🎯 Curso / Certificação | ✅ Status | 📜 Credencial |
 |:---:|:---|:---:|:---:|
-| **Sua Universidade** | Ciência de Dados | 🎓 Concluído | [ Ver Diploma ](#) |
-| **Sua Instituição** | Lean Six Sigma Green Belt | ✅ Certificado | [ Ver Certificado ](URL_DO_SEU_CERTIFICADO) |
-| **Plataforma Online** | Machine Learning Specialization | ✅ Concluído | [ Ver Certificado ](URL_DO_SEU_CERTIFICADO) |
-| **Plataforma Online** | SQL para Análise de Dados | ✅ Concluído | [ Ver Certificado ](URL_DO_SEU_CERTIFICADO) |
-| **Plataforma Online** | Power BI — Business Intelligence | ✅ Concluído | [ Ver Certificado ](URL_DO_SEU_CERTIFICADO) |
-| **Plataforma Online** | Big Data com Apache Spark | ✅ Concluído | [ Ver Certificado ](URL_DO_SEU_CERTIFICADO) |
+| **FATEC de ADAMANTINA** | Ciência de Dados | 🎓 Concluído | [ Ver Diploma ](#) |
+| **RL&ASSOCIADOS** | Lean Six Sigma Green Belt | ✅ Certificado | [ Ver Certificado ](https://www.linkedin.com/in/brenocoltri/overlay/Certifications/1618244894/treasury/?profileId=ACoAADisNTUBUmB8m2ontQ7vawMjZnHx0TExL0o) |
+
 
 </div>
 
@@ -299,10 +300,8 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 
 <div align="">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/seu-perfil)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoltri/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenocoltri312@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-portfolio.com)
 
 ---
