@@ -290,7 +290,12 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 |:---:|:---|:---:|:---:|
 | **FATEC de ADAMANTINA** | Ciência de Dados | 🎓 Concluído | [ Ver Diploma ](#) |
 | **RL&ASSOCIADOS** | Lean Six Sigma Green Belt | ✅ Certificado | [ Ver Certificado ](https://www.linkedin.com/in/brenocoltri/overlay/Certifications/1618244894/treasury/?profileId=ACoAADisNTUBUmB8m2ontQ7vawMjZnHx0TExL0o) |
-
+| **SAMSUNG OCEAN** | Desenvolvimento Ágil - Framework Scrum | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cmsnf1083000gssabtxa53d6q_7145) |
+| **SAMSUNG OCEAN** | Usando Chats Inteligentes para Análise de Dados e Machine Learning | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cms7m3zu9000r39e0zo0hzaz4_7142) |
+| **SAMSUNG OCEAN** | Fundamentos de Deep Learning: Conceitos e Implementações em Python | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cmrpi9sg8000f5857qn44dr3g_7132) |
+| **SAMSUNG OCEAN** | Introdução à IA para Digital Health | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cmndrydnf000xcak6di2c0qnx_6756) |
+| **SAMSUNG OCEAN** | Ciência de Dados: Processamento de Linguagem Natural e Mineração de Opinião em Python | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cmeu0n4ev000odl5dv09vq4y8_6148) |
+| **SAMSUNG OCEAN** | Fundamentos de lA Generativa e Chats Inteligentes: Conceitos e Implementações em Python | ✅ Certificado | [ Ver Certificado ](https://oceanbrasil.com/certificado/cmfdl0ufw000pxlwzgusoieui_6182) |
 
 </div>
 
