@@ -302,7 +302,6 @@ Scripts Python para geração automática de relatórios e dashboards a partir d
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoltri/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenocoltri312@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
